@@ -1,4 +1,7 @@
-### Hi there 👋
+<p>
+<img align="center" width=40% src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=esabook&layout=compact&theme=merko&count_private=true&langs_count=20&show_icons=true"/>
+<img align="center" width=55% src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=esabook&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true"/>
+</p>
 
 <!--
 **esabook/esabook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
