@@ -6,6 +6,11 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=esabook&show_icons=true&include_all_commits=true&theme=merko&count_private=true&custom_title=Github stats"/>
 </p>
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
