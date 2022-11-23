@@ -8,7 +8,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Kotlin   2 hrs 22 mins   ██████████████████████▓░░   90.40 %
+Java     14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
