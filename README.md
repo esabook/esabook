@@ -8,7 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Kotlin           6 hrs 7 mins    ██████████████████████▒░░   89.36 %
+XML              30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+Java             12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Gradle           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+CMakeLists.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
