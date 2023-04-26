@@ -8,9 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin   3 hrs 32 mins   ████████████████████████▓   98.44 %
-XML      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-Java     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
