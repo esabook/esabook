@@ -3,7 +3,6 @@
 [![Public Gists Badge](https://badges.strrl.dev/gists/esabook)](https://badges.strrl.dev)[![Years Badge](https://badges.strrl.dev/years/esabook)](https://badges.strrl.dev)
 <p>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=esabook&layout=compact&theme=merko&count_private=true&langs_count=20"/>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=esabook&show_icons=true&include_all_commits=true&theme=merko&count_private=true&custom_title=Github stats"/>
 </p>
 
 
